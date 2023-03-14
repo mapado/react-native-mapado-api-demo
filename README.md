@@ -13,6 +13,11 @@ All API-related code can be found in the `src/` folder.
 - [UserWelcome.tsx](src/UserWelcome.tsx) file fetch the connected user and display a welcome message,
 - [TicketingList.tsx](src/TicketingList.tsx) file fetch some ticketing and event dates and list them
 
+## Screencast
+
+https://user-images.githubusercontent.com/1398469/224942707-dacdce2e-1ae1-46b9-981b-2233e52b0506.mp4
+
+
 ## Can I run this demo application ?
 
 Yes, you can ! (but that's not required, you can browse the source code as well !)
